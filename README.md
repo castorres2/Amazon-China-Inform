@@ -1,4 +1,5 @@
-# Amazon-China-Inform
+# Amazon-China-Manufacturer-Informer
+
 Alerts Amazon shoppers went the string "China" is found on Amazon page.
 
 PRIVACY POLICY
